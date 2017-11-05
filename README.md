@@ -1,8 +1,14 @@
 # stblassitude/casperjs
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 This Docker image contains [CasperJS](http://casperjs.org), a web testing tool, ready to run from the command line.
 
 It lives on GitHub at [github.com/stblassitude/docker-casperjs](https://github.com/stblassitude/docker-casperjs), and on Docker Hub at [hub.docker.com/r/stblassitude/casperjs/](https://hub.docker.com/r/stblassitude/casperjs/).
+
+## Tags
+
+* `:1.0.0` (also `:latest`) contains PhantomJS 2.1.1 and CasperJS 1.1.4
 
 ## Using this image
 

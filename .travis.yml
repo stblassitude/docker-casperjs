@@ -1,0 +1,18 @@
+sudo: required
+
+language: node_js
+
+services:
+  - docker
+
+before_install:
+- docker build -t stblassitude/casperjs:1.0.0 -t stblassitude/casperjs:latest .
+
+script:
+- true
+
+after_success:
+  - if [ "$TRAVIS_BRANCH" == "master" ]; then
+    docker login -u="$DOCKER_USERNAME" -p="$DOCKER_PASSWORD";
+    docker push stblassitude/casperjs;
+    fi
