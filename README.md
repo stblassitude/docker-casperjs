@@ -1,6 +1,6 @@
 # stblassitude/casperjs
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Build Status](https://travis-ci.org/stblassitude/docker-casperjs.svg?branch=master)](https://travis-ci.org/stblassitude/docker-casperjs)
 
 This Docker image contains [CasperJS](http://casperjs.org), a web testing tool, ready to run from the command line.
 
