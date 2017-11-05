@@ -2,7 +2,7 @@
 
 This Docker image contains [CasperJS](http://casperjs.org), a web testing tool, ready to run from the command line.
 
-It lives on GitHub at [github.com/stblassitude/docker-casperjs](github.com/stblassitude/docker-casperjs), and on Docker Hub at [https://hub.docker.com/r/stblassitude/casperjs/](https://hub.docker.com/r/stblassitude/casperjs/).
+It lives on GitHub at [github.com/stblassitude/docker-casperjs](https://github.com/stblassitude/docker-casperjs), and on Docker Hub at [hub.docker.com/r/stblassitude/casperjs/](https://hub.docker.com/r/stblassitude/casperjs/).
 
 ## Using this image
 
